@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/artem-kodesnikov/redux-toolkit/static/css/main.d7d55b3a.css",
+    "main.js": "/artem-kodesnikov/redux-toolkit/static/js/main.3a172ec9.js",
+    "index.html": "/artem-kodesnikov/redux-toolkit/index.html",
+    "main.d7d55b3a.css.map": "/artem-kodesnikov/redux-toolkit/static/css/main.d7d55b3a.css.map",
+    "main.3a172ec9.js.map": "/artem-kodesnikov/redux-toolkit/static/js/main.3a172ec9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d7d55b3a.css",
+    "static/js/main.3a172ec9.js"
+  ]
+}
